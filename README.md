@@ -4,4 +4,4 @@
 根据下面链接的大神的hintsideBar修改而来http://blog.csdn.net/new_one_object/article/details/58049156
 
 效果图如下:
-![Alt text](https://github.com/youkylu/ChineseSortHintSideBar/raw/master/screenshot/1.png)
+
